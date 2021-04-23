@@ -42,6 +42,30 @@ h1{
     font: bold 20px verdana;
 }
 
+.intro {
+    text-align: center;
+    font-size: 175%;
+    color: black;
+    font-variant: normal;
+    font: bold 20px verdana;
+}
+
+.projects {
+    text-align: center;
+    font-size: 175%;
+    color: black;
+    font-variant: normal;
+    font: bold 20px verdana;
+}
+
+.skills {
+    text-align: center;
+    font-size: 175%;
+    color: black;
+    font-variant: normal;
+    font: bold 20px verdana;
+}
+
 ul{
     padding: 0;
     list-style: none;
