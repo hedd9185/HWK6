@@ -1,6 +1,39 @@
 ﻿body {
+    color: white;
+    background-color: lightblue;
 }
 
 img {
-    width: 250px
+    width: 300px;
+    padding: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 200%;
+    color: black;
+    font-variant: small-caps;
+}
+
+ul{
+    padding: 0;
+}
+
+a{
+    background-color: white;
+    color: darkviolet;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 25px;
+    padding: 20px;
+    display: block;
+    border-radius: 20px;
+}
+
+.navlist{
+    background-color: darkviolet;
+    width: 10%;
+    height: 50%;
+    float: left;
+
 }
